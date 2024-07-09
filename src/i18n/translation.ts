@@ -1,6 +1,6 @@
 import { siteConfig } from '../config'
 import type I18nKey from './i18nKey'
-import { en } from './languages/en'
+import { en } from './languages/ru'
 import { ja } from './languages/ja'
 import { zh_CN } from './languages/zh_CN'
 import { zh_TW } from './languages/zh_TW'
